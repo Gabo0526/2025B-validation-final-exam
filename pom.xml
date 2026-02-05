@@ -16,8 +16,9 @@
 	
 	<properties>
 		<java.version>17</java.version>
+        <sonar.projectKey>examen-final-project</sonar.projectKey>
+        <sonar.projectName>Examen Final</sonar.projectName>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
-    	<sonar.token>TOKEN</sonar.token>
 	</properties>
 
 	<dependencies>
